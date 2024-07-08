@@ -1,5 +1,8 @@
 # travelagency
 This project is a web application developed for a tourism agency, aiming to provide a seamless, user-friendly experience for exploring and booking travel destinations. Built with modern technologies, the platform efficiently integrates frontend, backend, and database systems to deliver a dynamic and secure service.
+
+
+
   Features : 
 1. Dynamic Destinations Page: Users can browse through a variety of travel destinations, each with detailed descriptions and images, making it easy to choose their next vacation spot.
 2. User Authentication and Registration: Secure user authentication ensures that only registered users can access certain features, such as booking functionalities.
