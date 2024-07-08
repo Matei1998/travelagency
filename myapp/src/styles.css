@@ -1,0 +1,98 @@
+.background-container {
+  background-image: url("./assets/poza6.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.background-containerGrecia {
+  background-image: url("./assets/poza6.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  position: relative; /* Adăugăm această proprietate pentru a folosi poziționarea absolută */
+}
+.imageListContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1; /* Oferă containerului flexibilitate pentru a se extinde și a umple spațiul disponibil */
+}
+
+.description-container {
+  background-color: lightgrey;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.description-container h2 {
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.description-container p {
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 10px;
+}
+
+
+.descriereGrecia {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.butonAcasaGrecia {
+  position: absolute; /* Poziționare absolută în cadrul containerului .background-containerGrecia */
+  top: 20px; /* Poziționăm butonul la 20px de partea de sus */
+  left: 20px; /* Poziționăm butonul la 20px de partea stângă */
+}
+
+
+
+.background-inregistrare{
+  background-image : url("./assets/sea.jpg");
+  background-size:cover;
+  background-repeat:no-repeat;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.contact-paper {
+    background-color: #d19130 !important;
+    padding: 15px;
+    width: 90%;
+    margin: auto;
+    border-radius:5% !important;
+  }
+  
+  .contact-typo {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .grid-container {
+    display: flex !important;
+    gap: 20px; 
+  }
+
+  .page-title {
+    display:block;
+    margin-bottom: 20px !important;
+}
+
+
+  
+
+
